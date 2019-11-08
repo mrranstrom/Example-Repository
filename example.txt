@@ -1,3 +1,5 @@
 This is a new file!
 
-Isn't source control great?
+Isn't source control amazing?
+
+We can use it to track changes across our files!
